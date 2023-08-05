@@ -6,4 +6,4 @@ This tool is generally designed to flow as the following:
     1. Populating an SQLite database (*collaborator.db*) with all interactions detected.
     2. Utilising Telegram's sendMessage API to notify the user of any new interactions.
 
-I've included the examples I have used when writing this, see *cron_jobs.txt* and *burp.config*.
+I've included the examples I have used when writing this, see *cron_jobs.md* and *burp.config*.
